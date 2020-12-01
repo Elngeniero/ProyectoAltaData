@@ -25,7 +25,7 @@ SECRET_KEY = 'ms5xmm^+76hsm@qnb+!vo$(h5!@8l_5q#z5u7_l4q)a*7v)6#k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["elngeniero.pythonanywhere.com"/]
 
 STATICFILES_DIRS = ["C:/Users/pablo/Documents/00.- ProyectoEpicReal/ProyectoAltaData/ProyectoAltaData/templates/static"]
 
